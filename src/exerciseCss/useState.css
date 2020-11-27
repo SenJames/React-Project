@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* .pics {
+  max-height: 200px;
+  height: 50px;
+  width: fit-content;
+} */
+
+.round {
+  border-radius: 100%;
+  border: 2px red solid;
+  width: 100px;
+  height: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
